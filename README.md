@@ -1,4 +1,4 @@
 LibreOffice-Guide-Korean
 ========================
 
-LibreOffice Korean Translations 
+LibreOffice Guides Korean Translations 
